@@ -1,0 +1,31 @@
+﻿# 排除IDE项目文件
+.settings
+.settings/*
+.buildpath
+.project
+.DS_Store
+*.DS_Store
+.idea
+.gitee
+.gitee/*
+
+# 日记文件
+*.log
+runtime/*
+
+# 临时文件
+*.bak
+*.swp
+
+# 压缩包文件
+*.dat
+*.zip
+*.tar
+vendor/*
+composer.lock
+.travis.yml
+
+# 配置文件
+.env.php
+.env
+
