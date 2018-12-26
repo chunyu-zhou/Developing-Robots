@@ -9,6 +9,8 @@
 .gitee
 .gitee/*
 
+thinkphp
+
 # 日记文件
 *.log
 runtime/*
